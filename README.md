@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with my life :v
 - 💬 Ask me about my crush xD
 - 📫 How to reach me: s.rahman3443@gmail.com
-- ⚡ Fun fact: I'm weird xD
+- ⚡ Fun fact: I'm depressed xD
 
 [![Shihab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shihab67&count_private=true&show_icons=true&theme=radical)](https://github.com/shihab67/github-readme-stats)
 
