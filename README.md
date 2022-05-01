@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: s.rahman3443@gmail.com
 - ⚡ Fun fact: I'm weird xD
 
-[![Shihab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shihab67)](https://github.com/shihab67/github-readme-stats)
+[![Shihab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shihab67&count_private=true,show_icons=true,theme=radical)](https://github.com/shihab67/github-readme-stats)
