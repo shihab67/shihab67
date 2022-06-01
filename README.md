@@ -1,4 +1,4 @@
-<h2>### Hi there, I'm Sayedur Rahman <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"></h2>
+<h2>### Hi there, I'm Sayedur Rahman <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px" height="10px"></h2>
 
 Here are some ideas to get you started:
 
