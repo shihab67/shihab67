@@ -9,7 +9,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about my crush xD
 - 📫 How to reach me: s.rahman3443@gmail.com
 - ⚡ Fun fact: I'm depressed xD
-
-[![Shihab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shihab67&count_private=true&show_icons=true&theme=radical)](https://github.com/shihab67/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihab67)](https://github.com/shihab67/github-readme-stats)
